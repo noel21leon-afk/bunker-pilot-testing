@@ -1,0 +1,1 @@
+{"name":"bunker-calculation-pwa","private":true,"type":"module","scripts":{"test":"node test-core.mjs"}}
